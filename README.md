@@ -70,11 +70,11 @@ class Developer
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shasizk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=padil1243&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shasizk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padil1243&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=shasizk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=padil1243&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
