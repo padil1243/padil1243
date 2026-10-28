@@ -7,9 +7,9 @@
 
 Building digital solutions through code, creativity, and continuous learning.
 
-![Profile Views](https://komarev.com/ghpvc/?username=shasizk&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=padil1243&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
-[![GitHub](https://img.shields.io/badge/GitHub-shasizk-181717?style=for-the-badge&logo=github)](https://github.com/shasizk)
+[![GitHub](https://img.shields.io/badge/GitHub-shasizk-181717?style=for-the-badge&logo=github)](https://github.com/padil1243)
 
 </div>
 
@@ -25,10 +25,7 @@ class Developer
     public string $name = "Fadhil";
     public string $country = "Indonesia";
     public array $interests = [
-        "Web Development",
-        "Backend Development",
-        "Internet of Things",
-        "Database Management"
+        "Web Development"
     ];
 
     public function currentFocus(): string
@@ -55,7 +52,6 @@ class Developer
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Database & Tools
 
@@ -64,31 +60,11 @@ class Developer
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### IoT & Hardware
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
-
-</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 📦 Smart Inventory Management System
-
-A web-based inventory system designed to manage warehouse operations and stock transactions.
-
-- Inventory and stock management
-- User roles and access control
-- Transaction records and reporting
-- Exploration of ESP32 and RFID integration
-
-**Built with:** Laravel, PHP, MySQL, ESP32
-
-🔗 [View Project](https://github.com/shasizk/smart_inventory)
-
----
 
 ## 📊 GitHub Analytics
 
@@ -118,7 +94,7 @@ A web-based inventory system designed to manage warehouse operations and stock t
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shasizk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/padil1243)
 
 **"Code. Learn. Build. Repeat."** 🚀
 
