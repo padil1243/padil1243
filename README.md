@@ -25,12 +25,8 @@ role: Web Developer
 country: Indonesia
 interests:
   - Web Development
-  - Backend Engineering
   - Database Design
   - Problem Solving
-currently_learning:
-  - Better Software Architecture
-  - New Development Technologies
 motto: "Build. Break. Learn. Repeat."
 ```
 
